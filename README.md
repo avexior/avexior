@@ -40,15 +40,15 @@
     <p>Peek into my GitHub stats to see my contributions and progress!</p>
     <table align="center" width="100%" height="100%">
         <tr>
-            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xorazm92&theme=github_dark" alt="Xorazm92's GitHub Stats"/></td>
-            <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Xorazm92&theme=merko" alt="Xorazm92's Contribution Streak"/></td>
+            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulaz1z31&theme=github_dark" alt="abdulaz1z31's GitHub Stats"/></td>
+            <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulaz1z31&theme=merko" alt="abdulaz1z31's Contribution Streak"/></td>
         </tr>
     </table>
 
     <table align="center" width="100%" height="100%">
         <tr>
-            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xorazm92&theme=github_dark" alt="Xorazm92's GitHub Stats"/></td>
-            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xorazm92&theme=github_dark&utcOffset=10" alt="Xorazm92's GitHub Stats"/></td>
+            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulaz1z31&theme=github_dark" alt="abdulaz1z31's GitHub Stats"/></td>
+            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulaz1z31&theme=github_dark&utcOffset=10" alt="abdulaz1z31's GitHub Stats"/></td>
         </tr>
     </table>
 </div>
