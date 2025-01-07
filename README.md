@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Zufar;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Abdulaziz;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
@@ -10,8 +10,8 @@
 
 <div align="center">
     <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-    [![Linkedin Badge](https://img.shields.io/badge/-Zufar_Bobojonov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zufar-bobojonov-6544a6251/)](https://www.linkedin.com/in/zufar-bobojonov-6544a6251/) 
-    [![Telegram Badge](https://img.shields.io/badge/@Zufar_Xorazmiy-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Zufar_Xorazmiy)](https://t.me/Zufar_Xorazmiy) 
+    [![Linkedin Badge](https://img.shields.io/badge/-Abdulaziz_Akbarom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulaziz-akbarov-a3186b31a/)](https://www.linkedin.com/in/abdulaziz-akbarov-a3186b31a/) 
+    [![Telegram Badge](https://img.shields.io/badge/@spaccee11-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/spaccee11)](https://t.me/spaccee11) 
     [![Youtube Badge](https://img.shields.io/badge/@MrZufarbek-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@MrZufarbek)](https://www.youtube.com/@MrZufarbek)
 </div>
 
