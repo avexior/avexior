@@ -9,10 +9,11 @@
 </div>
 
 <div align="center">
-    <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-    [![Linkedin Badge](https://img.shields.io/badge/-Abdulaziz_Akbarom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulaziz-akbarov-a3186b31a/)](https://www.linkedin.com/in/abdulaziz-akbarov-a3186b31a/) 
-    [![Telegram Badge](https://img.shields.io/badge/@spaccee11-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/spaccee11)](https://t.me/spaccee11) 
-    [![Youtube Badge](https://img.shields.io/badge/@MrZufarbek-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@MrZufarbek)](https://www.youtube.com/@MrZufarbek)
+    <h2 align="center" class="section-heading">### 🌐 Connect with Me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Abdulaziz_Akbarom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulaziz-akbarov-a3186b31a/)](https://www.linkedin.com/in/abdulaziz-akbarov-a3186b31a/)
+[![Telegram Badge](https://img.shields.io/badge/@spaccee11-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/spaccee11)](https://t.me/spaccee11)
+
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
@@ -51,26 +52,5 @@
             <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulaz1z31&theme=github_dark&utcOffset=10" alt="abdulaz1z31's GitHub Stats"/></td>
         </tr>
     </table>
-</div>
 
-<div style="text-align: center;">
-    <h2>🌱 Currently Learning</h2>
-    <p>I'm currently working on deepening my knowledge and learning new technologies, including:</p>
-    <ul>
-        <li>Advanced programming techniques in Python</li>
-        <li>Database management and optimization</li>
-        <li>Fundamentals of web development</li>
-        <li>Modern software development methodologies</li>
-    </ul>
-</div>
-
-<div style="text-align: center;">
-    <h2>🎯 Future Goals</h2>
-    <p>In the future, I aim to enhance my skills in the following areas:</p>
-    <ul>
-        <li>Full-stack web development</li>
-        <li>Mobile application development</li>
-        <li>Basics of artificial intelligence and machine learning</li>
-        <li>Software architecture</li>
-    </ul>
 </div>
