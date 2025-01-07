@@ -42,17 +42,9 @@
 <div align="center">
     <h2 align="center" class="section-heading">💻 GitHub Stats</h2>
     <p>Peek into my GitHub stats to see my contributions and progress!</p>
-    <table align="center" width="100%" height="100%">
-        <tr>
-            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulaz1z31&theme=github_dark" alt="abdulaz1z31's GitHub Stats"/></td>
-            <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulaz1z31&theme=merko" alt="abdulaz1z31's Contribution Streak"/></td>
-        </tr>
-    </table>
-
-    <table align="center" width="100%" height="100%">
-        <tr>
-            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulaz1z31&theme=github_dark" alt="abdulaz1z31's GitHub Stats"/></td>
-            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulaz1z31&theme=github_dark&utcOffset=10" alt="abdulaz1z31's GitHub Stats"/></td>
-        </tr>
-    </table>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulaz1z31&theme=github_dark" alt="abdulaz1z31's GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulaz1z31&theme=merko" alt="abdulaz1z31's Contribution Streak"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulaz1z31&theme=github_dark" alt="abdulaz1z31's GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulaz1z31&theme=github_dark&utcOffset=10" alt="abdulaz1z31's GitHub Stats"/>
 </div>
+
