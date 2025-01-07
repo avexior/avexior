@@ -9,11 +9,14 @@
 </div>
 
 <div align="center">
-    <h2 align="center" class="section-heading">### 🌐 Connect with Me
-
-[![Linkedin Badge](https://img.shields.io/badge/-Abdulaziz_Akbarom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulaziz-akbarov-a3186b31a/)](https://www.linkedin.com/in/abdulaziz-akbarov-a3186b31a/)
-[![Telegram Badge](https://img.shields.io/badge/@spaccee11-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/spaccee11)](https://t.me/spaccee11)
-
+    <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+    <p>Feel free to reach out to me:</p>
+    <a href="https://www.linkedin.com/in/abdulaziz-akbarov-a3186b31a/">
+        <img src="https://img.shields.io/badge/-Abdulaziz_Akbarom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulaziz-akbarov-a3186b31a/" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://t.me/spaccee11">
+        <img src="https://img.shields.io/badge/@spaccee11-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/spaccee11" alt="Telegram Badge"/>
+    </a>
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
@@ -52,5 +55,4 @@
             <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulaz1z31&theme=github_dark&utcOffset=10" alt="abdulaz1z31's GitHub Stats"/></td>
         </tr>
     </table>
-
 </div>
