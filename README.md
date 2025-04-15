@@ -3,28 +3,16 @@
 </div>
 
 <div align="center">
-  <h2>✨ About Me</h2>
-  <p>
-    Hey, I'm <strong>Abdulaziz Akbarov</strong> – a passionate backend developer from Tashkent, Uzbekistan 🇺🇿.<br/><br/>
+## ✨ About Me
 
-    I specialize in building efficient, scalable, and reliable backend systems using modern technologies. I love writing clean and maintainable code, solving real-world problems, and working in collaborative environments. I'm especially focused on designing systems with strong architecture and solid database structure.<br/><br/>
+Hey, I'm **Abdulaziz Akbarov** – a passionate backend developer from Tashkent, Uzbekistan 🇺🇿.
 
-    🔧 My core stack includes:
-    <br/>
-    <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>Node.js</strong>, <strong>NestJS</strong>, <strong>Express.js</strong>, <strong>PostgreSQL</strong>, <strong>MongoDB</strong>, <strong>MySQL</strong>, <strong>Prisma</strong>, <strong>TypeORM</strong>, <strong>Docker</strong>, <strong>Git</strong>, <strong>GitHub</strong>, <strong>Postman</strong>, <strong>Swagger</strong>, and <strong>Linux</strong> (basic).<br/><br/>
+I specialize in building efficient, scalable, and reliable backend systems using modern technologies.  
+I love writing clean and maintainable code, solving real-world problems, and working in collaborative environments.  
+I'm especially focused on designing systems with strong architecture and solid database structure.
 
-    🚀 I'm currently working as a <strong>Backend Developer</strong> at <a href="https://www.applar.uz/" target="_blank">Applar</a> on the <strong>Ustoz AI</strong> project — an educational platform with over <strong>400,000 users</strong>. Some key contributions include:
-    <ul align="left" style="display:inline-block; text-align:left;">
-      <li>Integrated Payme payment system from scratch</li>
-      <li>Fixed and optimized backend bugs for a better user experience</li>
-      <li>Designed and implemented RESTful APIs using NestJS and Prisma ORM</li>
-    </ul><br/>
-
-    🎓 I completed a full-time <strong>Backend Development Bootcamp</strong> at <a href="https://najottalim.uz/" target="_blank">Najot Ta’lim</a>, where I built several real-world backend projects while mastering core backend concepts and tools.<br/><br/>
-
-    🔄 I’m currently diving deeper into <strong>Microservices architecture</strong> and integrating <strong>Apache Kafka</strong> into my projects to build event-driven and decoupled systems that scale. I believe in continuous learning and always look for ways to improve both technically and personally.<br/><br/>
-
-    Let's build something amazing together.
+🔧 **My core stack includes:**  
+**JavaScript**, **TypeScript**, **Node.js**, **NestJS**, **Express.js**, **PostgreSQL**, **MongoDB**, **MySQL**, **Prisma**, **TypeORM**, **Docker**, **Git**, **GitHub**, **Postman**, **Swagger**, and **Linux** (basic).
 
   </p>
 </div>
