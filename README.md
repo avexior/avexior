@@ -1,29 +1,31 @@
 <div align="center">
-  <h1>Hey.. I'm Abdulaziz</h1>
-</div>
 
-<div align="center">
-## ✨ About Me
+  <!-- Typewriter text -->
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&pause=1000&color=000000&center=true&vCenter=true&width=300&lines=Hey..+I'm+Abdulaziz" alt="Typing SVG" />
 
-Hey, I'm **Abdulaziz Akbarov** – a passionate backend developer from Tashkent, Uzbekistan 🇺🇿.
+  <br/>
 
+  <p><strong>Backend Developer from Tashkent, Uzbekistan 🇺🇿</strong></p>
 
-</div>
+  <!-- Contact -->
+  <p>
+    <a href="https://www.linkedin.com/in/abdulaziz-akbarov-a3186b31a/">
+      <img src="https://img.shields.io/badge/LinkedIn-grey?style=flat&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+    </a>
+    &nbsp;
+    <a href="https://t.me/avexior">
+      <img src="https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram&logoColor=black" alt="Telegram"/>
+    </a>
+    &nbsp;
+    <a href="mailto:a.abdulaziz3110@gmail.com">
+      <img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail&logoColor=black" alt="Email"/>
+    </a>
+  </p>
 
-<div align="center">
-  <h2>🌐 Connect with Me</h2>
-  <a href="https://www.linkedin.com/in/abdulaziz-akbarov-a3186b31a/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/avexior">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
+  <br/>
 
+  <!-- GitHub Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avexior&theme=default" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avexior&theme=default" alt="Contribution Streak"/>
 
-
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avexior&theme=github_dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avexior&theme=merko" alt="Contribution Streak"/>
 </div>
